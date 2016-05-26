@@ -3,20 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package tutoguit2;
+package caca;
 
 /**
  *
  * @author edmundo
  */
-public class TutoGuit2 {
+public class Caca {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hola");
     }
     
 }
